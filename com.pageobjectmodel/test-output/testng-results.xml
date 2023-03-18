@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-18T16:35:19Z" name="Default suite" finished-at="2023-03-18T16:35:50Z" duration-ms="30938">
+    <groups>
+    </groups>
+    <test started-at="2023-03-18T16:35:19Z" name="Default test" finished-at="2023-03-18T16:35:50Z" duration-ms="30938">
+      <class name="com.test.LoginTest">
+        <test-method is-config="true" signature="correctCred()[pri:0, instance:com.test.LoginTest@127a7a2e]" started-at="2023-03-18T16:35:19Z" name="correctCred" finished-at="2023-03-18T16:35:44Z" duration-ms="24742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- correctCred -->
+        <test-method signature="verifyTitalofNextPage()[pri:0, instance:com.test.LoginTest@127a7a2e]" started-at="2023-03-18T16:35:44Z" name="verifyTitalofNextPage" finished-at="2023-03-18T16:35:50Z" duration-ms="6091" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitalofNextPage -->
+      </class> <!-- com.test.LoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
